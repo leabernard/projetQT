@@ -1,0 +1,9 @@
+﻿  moc serverTCP.h
+  moc serverWebSocket.h
+  bddserver.cpp
+  main.cpp
+  serverTCP.cpp
+  serverWebSocket.cpp
+  moc_serverTCP.cpp
+  moc_serverWebSocket.cpp
+  serverTCPWebSocket.vcxproj -> Y:\Projet_QT\Server\x64\Debug\serverTCPWebSocket.exe
