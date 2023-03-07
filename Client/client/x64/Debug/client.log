@@ -1,0 +1,8 @@
+﻿  uic client.ui
+  rcc client.qrc
+  moc client.h
+  client.cpp
+  main.cpp
+  qrc_client.cpp
+  moc_client.cpp
+  client.vcxproj -> Y:\Projet_QT\Client\x64\Debug\client.exe
